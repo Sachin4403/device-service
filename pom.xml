@@ -12,7 +12,7 @@
     </parent>
 
 
-    <groupId>org.dt.device.service</groupId>
+    <groupId>com.sachin.device.service</groupId>
     <artifactId>device-service</artifactId>
     <version>1.0-SNAPSHOT</version>
 

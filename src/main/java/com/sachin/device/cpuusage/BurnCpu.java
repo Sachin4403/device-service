@@ -1,6 +1,6 @@
-package org.dt.device.cpuusage;
+package com.sachin.device.cpuusage;
 
-import org.dt.device.service.FileReaderService;
+import com.sachin.device.service.FileReaderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -11,9 +11,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Objects;
-import java.util.concurrent.Executor;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 @Component
 public class BurnCpu {

@@ -1,4 +1,4 @@
-package org.dt.device.response;
+package com.sachin.device.response;
 import lombok.*;
 
 import java.util.Date;

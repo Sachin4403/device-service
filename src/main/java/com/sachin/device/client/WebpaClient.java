@@ -1,6 +1,6 @@
-package org.dt.device.client;
+package com.sachin.device.client;
 
-import org.dt.device.response.WebpaResponse;
+import com.sachin.device.response.WebpaResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;

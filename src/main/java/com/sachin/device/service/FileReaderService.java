@@ -1,4 +1,4 @@
-package org.dt.device.service;
+package com.sachin.device.service;
 
 
 import org.springframework.stereotype.Component;

@@ -1,12 +1,9 @@
-package org.dt.device.service;
+package com.sachin.device.service;
 
-import org.dt.device.client.WebpaClient;
-import org.dt.device.response.WebpaResponse;
+import com.sachin.device.client.WebpaClient;
+import com.sachin.device.response.WebpaResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.time.Duration;
-import java.util.concurrent.atomic.AtomicInteger;
 
 @Service
 public class WebpaService {

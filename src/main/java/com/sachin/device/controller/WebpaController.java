@@ -1,9 +1,8 @@
-package org.dt.device.controller;
+package com.sachin.device.controller;
 
-import org.dt.device.response.WebpaResponse;
-import org.dt.device.service.WebpaService;
+import com.sachin.device.response.WebpaResponse;
+import com.sachin.device.service.WebpaService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
